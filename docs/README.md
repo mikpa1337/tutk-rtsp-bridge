@@ -3,6 +3,7 @@
 This contains some information about the protocols, the obfuscation ('transcode') and such
 
 ## reversing the scrambler
+* Well known xor key: `Charlie is the designer of P2P!!`
 
 basically, it works like this
 * If the buffer length is not >= 16 bytes
